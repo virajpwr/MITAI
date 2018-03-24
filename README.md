@@ -1,4 +1,4 @@
 # MITAI
 
-Travel Reommendation system using predictive models.
+Travel Recommendation system using predictive models.
 
