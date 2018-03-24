@@ -1,3 +1,4 @@
 # MITAI
-Recommendation system for users in travel industry.
+
+Travel Reommendation system using predictive models.
 
